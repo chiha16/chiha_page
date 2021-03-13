@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.box1 {
+    height: auto;
+    width: auto;
+    background: #000;
+    color: #fff;
+    text-align: center;
+}
+
+.box2 {
+    height: 1000px;
+    background-color: darkorange;
+}
+
+.menu {
+    height: auto;
+    width: auto;
+    background: #159;
+    color: #fff;
+    text-align: center;
+}
+
+.new {
+    color: red;
+}
