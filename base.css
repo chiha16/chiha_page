@@ -65,7 +65,7 @@ body {
 
 #a_box {
     width: auto;
-    height: 1000px;
+    height: 2000px;
     background: #000;
     color: #fff;
     text-align: center;
@@ -74,7 +74,7 @@ body {
 
 #a_box1 {
     width: 600px;
-    height: 300px;
+    height: 200px;
     background: #CCFFFF;
     color: #000;
     text-align: center;
@@ -91,7 +91,7 @@ body {
     color: #000;
     background: #99FFFF;
     position: absolute;
-    top: 600px;
+    top: 800px;
     transform: translate(-50%,-50%);
     left: 50%;
     font-family: sans-serif;
@@ -102,5 +102,22 @@ body {
     height: auto;
     color: #fff;
     position: absolute;
-    top: 800px;
+    top: 1900px;
+}
+
+#a_box4 {
+    width: 1000px;
+    height: auto;
+    color: #000;
+    background: #99FFFF;
+    position: absolute;
+    top: 700px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: sans-serif;
+}
+#text1 {
+    width: auto;
+    height: auto;
+    background: #808080;
 }
